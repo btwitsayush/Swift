@@ -6,3 +6,4 @@ import Foundation
  */
 
 basics_01()
+dataTypes02()
