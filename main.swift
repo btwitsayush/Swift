@@ -7,3 +7,7 @@ import Foundation
 
 basics_01()
 dataTypes02()
+conditonal_03()
+logicalOperator_04()
+functions_05()
+
